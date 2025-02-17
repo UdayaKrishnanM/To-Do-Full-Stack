@@ -7,7 +7,7 @@ const HeaderComponent = () => {
         <header>
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
 
-                <a href="https://www.linkedin.com/in/udaya-krishnan-m/" className="navbar-brand">To Do List</a>
+                <a href="https://www.google.com/" className="navbar-brand">To Do List</a>
                 <div className="collapse navbar-collapse" id='navbarNav'>
 
                   <ul className="navbar-nav">
