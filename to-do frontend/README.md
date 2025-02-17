@@ -9,6 +9,6 @@ Currently, two official plugins are available:
 
 
 # install npm packages like 'react-router-dom', 'bootstrap', 'axios'
-npm install axios --save
+```npm install axios --save
 # npm install react-router-dom --save
 # npm install bootstrap --save
